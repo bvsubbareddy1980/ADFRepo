@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "BVSRADFGIT"
 		},
+		"ls_BlobContainer_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
