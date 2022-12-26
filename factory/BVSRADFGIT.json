@@ -1,0 +1,9 @@
+{
+	"name": "BVSRADFGIT",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6d42b651-7d18-4a4e-a005-02760b535f8f",
+		"tenantId": "d1083b52-e48e-4268-9ab8-b820e0d6dc18"
+	}
+}
