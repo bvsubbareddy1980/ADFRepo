@@ -1,0 +1,9 @@
+{
+	"name": "BVSRADFDEV",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f8526a0c-8673-4ec1-9eca-b0401973f16e",
+		"tenantId": "d1083b52-e48e-4268-9ab8-b820e0d6dc18"
+	}
+}
